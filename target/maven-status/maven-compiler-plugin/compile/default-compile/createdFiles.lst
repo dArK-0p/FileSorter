@@ -1,0 +1,5 @@
+com\fileSorter\ImageFileProcessor.class
+com\fileSorter\VideoFileProcessor.class
+com\fileSorter\FileSorter.class
+com\fileSorter\Main.class
+com\fileSorter\DirectoryManager.class
